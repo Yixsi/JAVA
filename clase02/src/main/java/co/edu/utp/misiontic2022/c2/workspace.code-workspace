@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\PYTHON\\Python ejercicios VS CODE"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\GIT\\facturas\\Diccionarios\\Diccionarios"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\..\\..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\practica-svg-1"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "disabled",
+		"liveServer.settings.multiRootWorkspaceName": "practica-svg-1"
+	}
+}

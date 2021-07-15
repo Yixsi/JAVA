@@ -13,7 +13,7 @@ public class Orden {
 
     public void agregarProducto(Producto producto){
         if(producto.getIdProducto()<=Orden.MAX_PRODUCTOS){
-            productos[producto.getIdProducto() -1] = producto;
+            this.productos[producto.getIdProducto() -1] = producto;
         }
     }
 
